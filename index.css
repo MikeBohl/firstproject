@@ -1,0 +1,14 @@
+body {
+    background-color: #000000;
+}
+
+.main p {
+    color: rgb(59, 196, 118);
+    background-color: antiquewhite;
+    padding: 40px;
+}
+
+h1 {
+    color: #fff;
+}
+
